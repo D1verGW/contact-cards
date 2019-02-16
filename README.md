@@ -9,6 +9,9 @@ git clone https://github.com/D1verGW/contact-cards
 cd ./server && npm i
 cd ./client && npm i
 
+### Set DB
+goto ./server/congfig/mongoKeys and change it to you DB string
+
 ### Start project
 npm run server
 npm run client
