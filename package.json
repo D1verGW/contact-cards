@@ -1,0 +1,20 @@
+{
+  "name": "contactcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd ./server && npm start",
+    "client": "cd ./client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D1verGW/contact-cards.git"
+  },
+  "author": "D1ver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D1verGW/contact-cards/issues"
+  },
+  "homepage": "https://github.com/D1verGW/contact-cards#readme"
+}
