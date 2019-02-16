@@ -3,25 +3,15 @@
 
 ```markdown
 ### Clone project
-## git clone https://github.com/D1verGW/contact-cards
-
+git clone https://github.com/D1verGW/contact-cards
 
 ### Install depth
-
-## server
-# cd ./server && npm i
-
-## client
-# cd ./client && npm i
-
+cd ./server && npm i
+cd ./client && npm i
 
 ### Start project
-
-## server
-# npm run server
-
-## client
-# npm run client
+npm run server
+npm run client
 ```
 
 For more details contact me with http://t.me/d1ver
